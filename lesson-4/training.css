@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 500;
+    src: url('./fonts/Raleway/static/Raleway-Medium.ttf');
+}
+
+body{
+    margin: 0;
+    /* обнуление всех отступов по умолчанию */
+    width: 600px;
+    font-family: sans-serif;
+}
+
+.logo_1{
+    Width: 94.19px;
+    Height: 32.38px;
+    Top: 50.27px;
+    Left: 227.49px;
+    position: absolute;
+    left: 14.22%;
+    right: 79.9%;
+    top: 1.12%;
+    bottom: 98.15%; 
+}
+
+.link_Home{
+    color: #051101;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.link_Product{
+    color: #051101;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.link_About{
+    color: #051101;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.link_Rewiew{
+    color: #051101;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.SHOP_NOW{
+    width: 149px;
+    height: 49px;
+    background-color: #5CBE3A;
+    border: solid;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.BRING_POWER_TO_YOUR_STEPS{
+    color: #5CBE3A;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+
